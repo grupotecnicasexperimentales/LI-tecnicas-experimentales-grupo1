@@ -4,7 +4,7 @@ En este repositorio se guardara el codigo de Lucky imaging desarrollado en matla
 
 **`Histograma.m`** contiene el codigo el cual se realizaron los histogramas  
 
-**`rank_li.m`** contiene el codigo el cual se trabajo el ranking de sellecion de frames  
+**`rank_li.m`** contiene el codigo el cual se trabajo el ranking de selecion de frames  
 
 **`Tecnicas_de_alineacion.m`** contienee el codigo el cual se trabajaron distintas tecnicas de alineacion  
 

@@ -3,7 +3,7 @@
 clear; clc; close all;
 
 %% === CONFIGURACIÓN ===
-video_file = 'jupiterLi.mp4';   % nombre del archivo de video 
+video_file = 'Copernicus.mp4';   % nombre del archivo de video 
 use_video_file = true;                  % true: pasa el filename; false: carga frames manualmente y pasa array
 process_subset = false;                 % true: cargar solo un subconjunto de frames (rápido para pruebas)
 subset_range = 1:200;                   % si process_subset = true
@@ -124,5 +124,6 @@ if save_results
 
     fprintf('Resultados guardados con prefijo: %s\n', out_base);
 end
+
 
 
